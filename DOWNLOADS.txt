@@ -1,9 +1,1 @@
-yay downloads! NOTE: These are outdated versions if you want a recent one check out the website
-Electron Windows 64 and 32 bit exe: https://drive.google.com/file/d/1dmjpdz7qjZeKx-Y_oRbIUAkVkiE6SiZY/view?usp=drive_link
-Electron Windows ARM: https://drive.google.com/file/d/1nE4AjVPIXSC2TXcIyKrxxS5e1fgzztjY/view?usp=sharing
-MacOS has some kind of policy that i don't want to do so sorry MacOS users.
-Expiremental downloads:
-Electron Linux x64: https://drive.google.com/file/d/1abZfGGJfr-Jp0LpRxLjuvJUqKDCaCtWG/view?usp=sharing
-Electron Linux ARM32: https://drive.google.com/file/d/1StRSrO6j35AtfsGDss08_NN0tdKp6Tl6/view?usp=sharing
-Electron Linux ARM64: https://drive.google.com/file/d/1fNHM5VlwU-FEUiGDKeOUC8jDE96ml96W/view?usp=sharing
-YOU DO NOT NEED to download any external electron applications just the .zip
+
